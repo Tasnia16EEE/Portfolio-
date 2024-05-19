@@ -6,7 +6,7 @@
 #### Software: 
 #### Visual Stodio, PyCharm, Jupyter Notebook, Notepad ++, Google Colab, AWS, Snowflake, Tableau, PowerBi, Weight & Biases, Microsoft Office Suite (Word, PowerPoint, Access, and Excel: VBA, pivot tables, slicers, conditional formatting), QGIS, Carto, SPSS, GIS, Adobe InDesign, Adobe Illustrator, Microsoft Publisher
 
-### Work Experince
+## Work Experince
 **Voluntary Research Work 1 @ University of California Berkely & Caltrans (_Dec 2022 – Current_)**
 
 **PI: Dr. Md. Mintu Miah, Research Data Specialist III, Caltrans**
@@ -60,11 +60,29 @@
 - Guided the organization team for various projects such as traffic light signal and traffic light recognition.
 
 
-### Education
+## Education
 - M.Sc., Computer Science & Systems	| University of Washington Tacoma (_Present_)	 			        		
 - B.Sc., Electrical & Electronic Engineering | Chittagong University of Engineering and Technology, Chattogram, Bangladesh (_October 2022_)
 
-### Projects
+## Projects
+**Exploratory data analysis**
+
+**SQL Projects**
+
+**Tableu Projects**
+
+**Power Bi Projects**
+
+
+## Publications
+- Miah, Md., Sultana, T., (2024): Leveraging Crowdsourced Data to Estimate Bicycle Volumes Across Networks (On Progress)
+- Salama, A., Elkamhawy, M., Hendawi, A., Sabour, A., Al-Masri, E., Sultana, T., Tan, M., Agrawal, V., Prakash, R., Ali, M. (2023), “A Computer Vision Approach for Detecting Discrepancies in Map Textual Labels” Submitted at Journal of Distributed and Parallel Databases (under review)
+- Sultana, T., Gani, M., Shultana, S., Miraj, A., & Uddin, A. (2023), “Analysis of Scandium Concentration in AlN Piezoelectric Material with Unimorph Silicon Nitride Cantilever” Submitted at Journal of Sound and Vibration (under review)
+
+## Conference
+- Miraj, A., & Uddin, A., Gani, M., Sultana, T., Shultana, S., (2024), “Performance Analysis of Different Piezoelectric & Shim Materials on Bimorph Piezoelectric Energy Harvester” - IEEE 2024 9th International Conference for Convergence in Technology (I2CT), Pune, Maharashtra, India
+
+
 
 
 
