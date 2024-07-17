@@ -65,7 +65,6 @@
 
 
 ## Publications
-- Miah, Md., Sultana, T., (2024): Leveraging Crowdsourced Data to Estimate Bicycle Volumes Across Networks (On Progress)
 - Salama, A., Elkamhawy, M., Hendawi, A., Sabour, A., Al-Masri, E., Sultana, T., Tan, M., Agrawal, V., Prakash, R., Ali, M. (2023), “A Computer Vision Approach for Detecting Discrepancies in Map Textual Labels” Submitted at Journal of Distributed and Parallel Databases (under review)
 - Sultana, T., Gani, M., Shultana, S., Miraj, A., & Uddin, A. (2023), “Analysis of Scandium Concentration in AlN Piezoelectric Material with Unimorph Silicon Nitride Cantilever” Submitted at Journal of Sound and Vibration (under review)
 
