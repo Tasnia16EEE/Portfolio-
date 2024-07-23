@@ -1,10 +1,10 @@
 # Data Scientist/ Machine Learning Enthusiast 
 
-#### Technical Skills 
+### Technical Skills 
 #### Programming Language: 
 #### Python, SQL, R, Java, Kotlin, Swift, C++, C#, R, html, CSS, PHP, JavaScript, MATLAB
 #### Software: 
-#### Visual Stodio, PyCharm, Jupyter Notebook, Notepad ++, Google Colab, AWS, Snowflake, Tableau, PowerBi, Weight & Biases, Microsoft Office Suite (Word, PowerPoint, Access, and Excel: VBA, pivot tables, slicers, conditional formatting), QGIS, Carto, SPSS, GIS, Adobe InDesign, Adobe Illustrator, Microsoft Publisher
+#### Visual Stodio, PyCharm, Jupyter Notebook, Notepad ++, Google Colab, Azure Cognitive Service, AWS, Tableau, PowerBi, Weight & Biases, Microsoft Office Suite (Word, PowerPoint, Access, and Excel: VBA, pivot tables, slicers, conditional formatting), GIS
 
 ## Work Experince
 
@@ -46,7 +46,9 @@
 
 ## Projects
 **Lime Interpretability**
+
 [Interpreting the Swin Transformer through Lime Interpretability](https://github.com/Tasnia16EEE/Lime_Interpretability/blob/main/Lime_Interpretability.ipynb) 
+
 Understanding how deep learning models, such as the Swin Transformer, classify objects is crucial for improving their performance and trustworthiness. This study leverages LIME (Local Interpretable Model-agnostic Explanations) to shed light on the decision-making process of Swin Transformer models. By applying LIME, we aim to identify the important features that influence the model's classifications and gain insights into its internal workings. This interpretability analysis not only helps in debugging and refining the model but also enhances transparency, making it easier to trust and adopt these advanced models in real-world applications. 
 
 **SQL Projects** 
