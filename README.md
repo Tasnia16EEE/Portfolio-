@@ -48,7 +48,7 @@
 
 ## Education			        		
 - Bachelor of Science (B.Sc.) | Electrical & Electronic Engineering | Chittagong University of Engineering and Technology, Chattogram, Bangladesh (_October 2022_) | CGPA: 3.43/4
-- Higher Scecondary School Certificate (HSC) |  | Chittagong College, Chattogram, Bangladesh (_March 2016_) | GPA: 5/5
+- Higher Scecondary School Certificate (HSC) | Science | Chittagong College, Chattogram, Bangladesh (_March 2016_) | GPA: 5/5
 
 ## Training 
 **Huawei Seeds for The Future Flagship Program, 2020**
