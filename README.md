@@ -2,14 +2,14 @@
 
 ## Technical Skills 
 
-#### Programming Language: 
-##### Python, SQL, R, Java, Kotlin, Swift, C++, C#, R, html, CSS, PHP, JavaScript, MATLAB, Assembly Language 
+### Programming Language: 
+#### Python, SQL, R, Java, Kotlin, Swift, C++, C#, R, html, CSS, PHP, JavaScript, MATLAB, Assembly Language 
 
-#### Software: 
-##### Visual Stodio Code, PyCharm, Jupyter Notebook, Notepad ++, Google Colab, MySQL, Android Studio Code, Azure Cognitive Service, AWS, Tableau, PowerBi, Weight & Biases, Microsoft Office Suite (Word, PowerPoint, Access, and Excel: VBA, pivot tables, slicers, conditional formatting), GIS
+### Software: 
+#### Visual Stodio Code, PyCharm, Jupyter Notebook, Notepad ++, Google Colab, MySQL, Android Studio Code, Azure Cognitive Service, AWS, Tableau, PowerBi, Weight & Biases, Microsoft Office Suite (Word, PowerPoint, Access, and Excel: VBA, pivot tables, slicers, conditional formatting), GIS
 
-#### Other Skills:
-##### Excellent people management skill, Inclusivity skill, Collaboration expertise, Conflict resolution proficiency, Detailed and organized, Capability to lead, Excellent communication skill, Ability to multitask, Project Planning, Project Engineering
+### Other Skills:
+#### Excellent people management skill, Inclusivity skill, Collaboration expertise, Conflict resolution proficiency, Detailed and organized, Capability to lead, Excellent communication skill, Ability to multitask, Project Planning, Project Engineering
 
 ## Work Experince
 
@@ -47,8 +47,8 @@
 - Guided the organization team for various projects such as traffic light signal and traffic light recognition.
 
 ## Education			        		
-- B.Sc., Electrical & Electronic Engineering | Chittagong University of Engineering and Technology, Chattogram, Bangladesh (_October 2022_)
-- HSC (Higher Scecondary School Certificate) | Chittagong College, Chattogram, Bangladesh (_March 2016_)
+- Bachelor of Science (B.Sc.) | Electrical & Electronic Engineering | Chittagong University of Engineering and Technology, Chattogram, Bangladesh (_October 2022_) | CGPA: 3.43/4
+- Higher Scecondary School Certificate (HSC) |  | Chittagong College, Chattogram, Bangladesh (_March 2016_) | GPA: 5/5
 
 ## Training 
 **Huawei Seeds for The Future Flagship Program, 2020**
@@ -87,7 +87,7 @@ As the demand for robust and adaptable network solutions grows, floating network
 - [Sultana, T., Gani, M., Shultana, S., Miraj, A., & Uddin, A. (2023), “Analysis of Scandium Concentration in AlN Piezoelectric Material with Unimorph Silicon Nitride Cantilever” Submitted at Journal of Sound and Vibration (under review)](https://drive.google.com/drive/folders/1rkrrV9zIkxBZCV_uYiJ3CK3saRnt1PR9)
 
 ## Conference
-- [Miraj, A., & Uddin, A., Gani, M., Sultana, T., Shultana, S., (2024), “Performance Analysis of Different Piezoelectric & Shim Materials on Bimorph Piezoelectric Energy Harvester” - IEEE 2024 9th International Conference for Convergence in Technology (I2CT), Pune, Maharashtra, India] (https://ieeexplore.ieee.org/document/10543375)
+- [Miraj, A., & Uddin, A., Gani, M., Sultana, T., Shultana, S., (2024), “Performance Analysis of Different Piezoelectric & Shim Materials on Bimorph Piezoelectric Energy Harvester” - IEEE 2024 9th International Conference for Convergence in Technology (I2CT), Pune, Maharashtra, India](https://ieeexplore.ieee.org/document/10543375)
 
 
 
