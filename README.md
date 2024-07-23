@@ -11,7 +11,7 @@
 ### Other Skills:
 #### Excellent people management skill, Inclusivity skill, Collaboration expertise, Conflict resolution proficiency, Detailed and organized, Capability to lead, Excellent communication skill, Ability to multitask, Project Planning, Project Engineering
 
-## Work Experince
+## Work Experience 
 
 **Voluntary Research Work 1 @ University of Washington Tacoma (_Jan 2023-Present_)**
 
