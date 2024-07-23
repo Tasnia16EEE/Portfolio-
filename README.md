@@ -48,6 +48,7 @@
 
 ## Education			        		
 - B.Sc., Electrical & Electronic Engineering | Chittagong University of Engineering and Technology, Chattogram, Bangladesh (_October 2022_)
+- HSC (Higher Scecondary School Certificate) | Chittagong College, Chattogram, Bangladesh (_March 2016_)
 
 ## Training 
 **Huawei Seeds for The Future Flagship Program, 2020**
