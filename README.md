@@ -81,12 +81,12 @@ Road safety is a critical concern, and effective monitoring of road signs and sp
 As the demand for robust and adaptable network solutions grows, floating network solutions have emerged as a vital technology to address connectivity challenges in various environments. This project explores the concept, design, implementation, and benefits of floating network solutions from Bangladesh Perspective, highlighting their potential to provide enhanced connectivity and resilience in diverse scenarios. [Huawei Bangldesh](https://www.facebook.com/HuaweiTechBD/videos/620891705516064) 
 
 ## Publications
-- Salama, A., Elkamhawy, M., Hendawi, A., Sabour, A., Al-Masri, E., Sultana, T., Tan, M., Agrawal, V., Prakash, R., Ali, M. (2023), [“A Computer Vision Approach for Detecting Discrepancies in Map Textual Labels”] Submitted at Journal of Distributed and Parallel Databases (Accepted Published Soon)(https://drive.google.com/drive/folders/1Tf3WFU7560u8_vhYuxR5Zn4MAOfQHC-c)
+- [Salama, A., Elkamhawy, M., Hendawi, A., Sabour, A., Al-Masri, E., **Sultana, T.,** Tan, M., Agrawal, V., Prakash, R., Ali, M. (2023), “A Computer Vision Approach for Detecting Discrepancies in Map Textual Labels” Submitted at Journal of Distributed and Parallel Databases (Accepted Published Soon)](https://drive.google.com/drive/folders/1Tf3WFU7560u8_vhYuxR5Zn4MAOfQHC-c)
 
-- Sultana, T., Gani, M., Shultana, S., Miraj, A., & Uddin, A. (2023), “Analysis of Scandium Concentration in AlN Piezoelectric Material with Unimorph Silicon Nitride Cantilever” Submitted at Journal of Sound and Vibration (under review)
+- **Sultana, T.,** Gani, M., Shultana, S., Miraj, A., & Uddin, A. (2023), “Analysis of Scandium Concentration in AlN Piezoelectric Material with Unimorph Silicon Nitride Cantilever” Submitted at Journal of Sound and Vibration (under review)
 
 ## Conference
-- Miraj, A., & Uddin, A., Gani, M., Sultana, T., Shultana, S., (2024), [“Performance Analysis of Different Piezoelectric & Shim Materials on Bimorph Piezoelectric Energy Harvester”] - IEEE 2024 9th International Conference for Convergence in Technology (I2CT), Pune, Maharashtra, India (https://ieeexplore.ieee.org/document/10543375)
+- Miraj, A., & Uddin, A., Gani, M., **Sultana, T.,** Shultana, S., (2024), [“Performance Analysis of Different Piezoelectric & Shim Materials on Bimorph Piezoelectric Energy Harvester”] - IEEE 2024 9th International Conference for Convergence in Technology (I2CT), Pune, Maharashtra, India (https://ieeexplore.ieee.org/document/10543375)
 
 
 
