@@ -11,35 +11,27 @@
 **Voluntary Research Work 1 @ University of Washington Tacoma (_Jan 2023-Present_)**
 
 **PI: Prof. Dr. Mohammad Ali, University of Washington Tacoma**
-- Use Coco datasets, ADE20K datasets, Pytorch, DeepLab, various API to understand the architecture of Swin Transformer.
-- Interpret the models with Lime, Shap and Grad-CAM interpretability methods.
-- Use SQL for Data modeling and database design.
-- Work with Adobe Illustrator, Microsoft Publisher.
-- Observe neuron to neuron connections in last layer of the models.
-
+- Use ADE20K datasets, PyTorch, Hugging face and various API to understand the architecture of pretrained Transformer models.
+- Use different unstructured pruning techniques such as Iterative Magnitude Pruning, Snip Pruning, Snip Momentum Pruning as well as DepGraph structured pruning method to prune the transformer architecture models.  
+- Understand the attention mechanism, cross attention mechanism and transformer’s encoder-decoder etc. 
+- Use Lime, Shap analysis and Grad CAM to interpret the model.
+  
 **Voluntary Research Work 2 @ University of Washington Tacoma (_Jan 2023-Dec 2023_)**
 
 **PI: Dr. Abdul Salama, Machine Learning Manager, Virta Health, USA**
-- Use Coco datasets, Pytorch Lightning, various API and Weight & Biases Visualization to fine tune the DETR and Faster R-CNN models for object detection.
-- Use Weight & Biases platform to visualize the learning curves and sweeps for tuning hyperparameters.
-- Work with advanced Microsoft Excel skills including VBA, pivot tables, slicers, array formulas, conditional formatting, advanced charting techniques, nested functions, and logical functions etc.
-- Use statistical visualization methods.
+- Used Azure Cognitive Service for text extraction. 
+- Used Coco datasets, Pytorch Lightning, various API and Weight & Biases Visualization to fine tune the DETR and Faster R-CNN models for object detection. 
+- Got practical experience with real data handling, convolutional neural network and deep learning. 
+- Used Weight & Biases platform to visualize the learning curves and sweeps for tuning hyperparameters.
 
 **Junior Software Engineer Intern @ Sourcetop, Inc Bangladesh (_Jul 2022–Dec 2022_)**
-- Assisted on a chatbot project for a client’s website.
 - Developed web applications using Visual Studio, CSS/HTML/JavaScript, C#, Django, PHP, WordPress.
 - Developed mobile applications using Kotlin, Carto, Swift, Android Studio.
 - Data Analysis and Mining with Python
 - SQL Querying and optimization
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses.
 
 **General Secretary @ Andromeda Space & Robotics Research Organization, Chittagong University of Engineering & Technology, Bangladesh (_Dec 2020–Mar 2022_)**
 - Arranged different coding and robotics competition.
-- Stayed connected with the faculty for the organization’s purpose.
-- Used non-ESRI mapping tools (e.g., QGIS, Carto)
-- Used GIS for multimodal transportation.
-- Worked with survey design and analysis.
 - Built a Line Follow Robot with a team for a competition.
 - Developed a GPS-based road sign and speed breaker alarming system utilizing Raspberry Pi technology to monitor road signs and speed breakers and implemented a voice-command-based alarm system.
 - Assisted on a chatbot project for a client’s website.
@@ -49,20 +41,16 @@
 - Took classes in different python libraries such as NumPy, matplotlib, OpenCV, pandas, scikit-learn, Python EDA analysis etc. [Python Classes](https://www.youtube.com/watch?v=J9PnEiOSzkQ)
 - Guided the organization team for various projects such as traffic light signal and traffic light recognition.
 
-
-## Education
-- M.Sc., Computer Science & Systems	| University of Washington Tacoma (_Present_)	 			        		
+## Education			        		
 - B.Sc., Electrical & Electronic Engineering | Chittagong University of Engineering and Technology, Chattogram, Bangladesh (_October 2022_)
 
 ## Projects
-**Exploratory data analysis**
+**Lime Interpretability**
+[Interpreting the Swin Transformer through Lime Interpretability](https://github.com/Tasnia16EEE/Lime_Interpretability/blob/main/Lime_Interpretability.ipynb) 
+Understanding how deep learning models, such as the Swin Transformer, classify objects is crucial for improving their performance and trustworthiness. This study leverages LIME (Local Interpretable Model-agnostic Explanations) to shed light on the decision-making process of Swin Transformer models. By applying LIME, we aim to identify the important features that influence the model's classifications and gain insights into its internal workings. This interpretability analysis not only helps in debugging and refining the model but also enhances transparency, making it easier to trust and adopt these advanced models in real-world applications. 
 
-**SQL Projects**
-
-**Tableu Projects**
-
-**Power Bi Projects**
-
+**SQL Projects** 
+Projects Repo: [SQL Projects](https://github.com/Tasnia16EEE/SQL)
 
 ## Publications
 - Salama, A., Elkamhawy, M., Hendawi, A., Sabour, A., Al-Masri, E., Sultana, T., Tan, M., Agrawal, V., Prakash, R., Ali, M. (2023), “A Computer Vision Approach for Detecting Discrepancies in Map Textual Labels” Submitted at Journal of Distributed and Parallel Databases (under review)
