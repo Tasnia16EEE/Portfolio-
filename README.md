@@ -1,4 +1,4 @@
-# Data Scientist/ Machine Learning Enthusiast 
+# Data Science & Machine Learning Enthusiast 
 
 ## Technical Skills 
 
