@@ -83,7 +83,7 @@
 - Guided the organization team for various projects such as traffic light signal and traffic light recognition.
 
  <p float="left">
-   <img src="ASRRO3.jpg" alt="Image 1" style="width:300px; height:250px; margin-right: 10px; margin-left: 10px;"/>
+   <img src="ASRRO3.jpg" alt="Image 1" style="width:300px; height:250px; margin-right: 0px; margin-left: 10px;"/>
  </p>
 
 ## Education			
