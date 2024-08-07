@@ -49,10 +49,23 @@
 - SQL Querying and optimization
 
 **General Secretary @ Andromeda Space & Robotics Research Organization, Chittagong University of Engineering & Technology, Bangladesh (_Dec 2020–Mar 2022_)**
-- Arranged different coding and robotics competition.
+- Arranged different coding hackathon, webinar and robotics competition.
+- Managed the committee with a focus on equity, integrity, and diversity.
+- Ensured a welcoming environment for all new students.
+- Maintained strong connections with faculty, alumni, and students to support the organization’s mission.
+- Distributed tasks among senior and junior members to foster a sense of belonging.
+- Organized webinars, seminars, and workshops on career growth and technologies.
+- Collaborated with the president and financial secretary to manage the organization's funding.
+- Posted the organization's work on the Facebook page and maintained connections with students.
+- Managed and regularly updated the organization's page as the page administrator.
 - Built a Line Follow Robot with a team for a competition.
 - Developed a GPS-based road sign and speed breaker alarming system utilizing Raspberry Pi technology to monitor road signs and speed breakers and implemented a voice-command-based alarm system.
-- Assisted on a chatbot project for a client’s website.
+
+**Design & Decoration Secretary @ Chittagong Student Forum, CUET (_Apr 2021–Mar 2022_)**
+- Coordinated and executed office operations, ensuring efficient workflow and organization.
+- Provided administrative support, including managing schedules, preparing reports, and handling correspondence.
+- Assisted with the planning and execution of design and decoration projects, ensuring all tasks were completed on time and within budget.
+- Posted the organization's work on the Facebook page and maintained connections with students.
 
 **Python Instructor @ Andromeda Space & Robotics Research Organization, Chittagong University of Engineering & Technology, Bangladesh (_Dec 2019–Mar 2022_)**
 - Guided the organization team for various projects such as traffic light signal and traffic light recognition.
