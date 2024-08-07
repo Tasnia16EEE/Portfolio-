@@ -102,9 +102,16 @@ As the demand for robust and adaptable network solutions grows, floating network
 
 **Hobby** 
 - Singing (I’ve taken part in many programs where I performed singing in various settings from small community gatherings to larger events. You might enjoy some of them!)
-  [![Watch the video](ss2.jpg)](https://www.youtube.com/watch?v=-uyDKSA76U4&list=PL106nfs2Hgb0RchNqF_7QLmoGIILGUVsk&index=3)
-  [![Watch the video](ss3.jpg)](https://www.facebook.com/tasnia.sultana.946/videos/2263924380551203)
-  
+- 
+  <p float="left">
+  <a href="https://www.youtube.com/watch?v=-uyDKSA76U4&list=PL106nfs2Hgb0RchNqF_7QLmoGIILGUVsk&index=3">
+    <img src="ss2.jpg" alt="YouTube Video" style="width:200px;"/>
+  </a>
+  <a href="https://www.facebook.com/tasnia.sultana.946/videos/2263924380551203">
+    <img src="ss3.jpg" alt="Facebook Video" style="width:200px; margin-left: 10px;"/>
+  </a>
+</p>
+
 - Playing Piano 
 
 ## Publications
