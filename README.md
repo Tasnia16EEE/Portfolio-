@@ -101,7 +101,9 @@ Road safety is a critical concern, and effective monitoring of road signs and sp
 As the demand for robust and adaptable network solutions grows, floating network solutions have emerged as a vital technology to address connectivity challenges in various environments. This project explores the concept, design, implementation, and benefits of floating network solutions from Bangladesh Perspective, highlighting their potential to provide enhanced connectivity and resilience in diverse scenarios. [Huawei Bangldesh](https://www.facebook.com/HuaweiTechBD/videos/620891705516064) 
 
 **Hobby** 
-- Singing (I’ve taken part in many programs where I actively sing, performing in various settings from small community gatherings to larger events. You might enjoy some of them!)
+- Singing (I’ve taken part in many programs where I performed singing in various settings from small community gatherings to larger events. You might enjoy some of them!)
+  [![Watch the video](ss2.png)](https://www.youtube.com/watch?v=-uyDKSA76U4&list=PL106nfs2Hgb0RchNqF_7QLmoGIILGUVsk&index=3)
+  [![Watch the video](ss3.png)](https://www.facebook.com/tasnia.sultana.946/videos/2263924380551203)
   
 - Playing Piano 
 
