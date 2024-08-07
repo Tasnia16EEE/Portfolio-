@@ -1,6 +1,8 @@
 # Data Science & Machine Learning Enthusiast 
 
-[![Logo](Facebook-Logosu.png)](https://www.facebook.com/tasnia.sultana.946/)
+<a href="[https://your-link-url.com](https://www.facebook.com/tasnia.sultana.946/)">
+    <img src="Facebook-Logosu.png" alt="Logo" style="width:100px;"/>
+</a>
 
 ## Technical Skills 
 
