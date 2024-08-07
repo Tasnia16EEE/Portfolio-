@@ -100,6 +100,11 @@ Road safety is a critical concern, and effective monitoring of road signs and sp
 
 As the demand for robust and adaptable network solutions grows, floating network solutions have emerged as a vital technology to address connectivity challenges in various environments. This project explores the concept, design, implementation, and benefits of floating network solutions from Bangladesh Perspective, highlighting their potential to provide enhanced connectivity and resilience in diverse scenarios. [Huawei Bangldesh](https://www.facebook.com/HuaweiTechBD/videos/620891705516064) 
 
+**Hobby** 
+- Singing (I’ve taken part in many programs where I actively sing, performing in various settings from small community gatherings to larger events. You might enjoy some of them!)
+  
+- Playing Piano 
+
 ## Publications
 - [Salama, A., Elkamhawy, M., Hendawi, A., Sabour, A., Al-Masri, E., Sultana, T., Tan, M., Agrawal, V., Prakash, R., Ali, M. (2023), “A Computer Vision Approach for Detecting Discrepancies in Map Textual Labels” Submitted at Journal of Distributed and Parallel Databases (Accepted Published Soon)](https://drive.google.com/drive/folders/1Tf3WFU7560u8_vhYuxR5Zn4MAOfQHC-c)
 
