@@ -65,7 +65,7 @@
 - Guided the organization team for various projects such as traffic light signal and traffic light recognition.
 
 ## Education			
-- Master of Science (M.Sc.) | Computer Science & Systems | University of Washington Tacoma (_Present_) | 
+- Master of Science (M.Sc.) | Computer Science & Systems | University of Washington Tacoma (_Present_) 
 - Bachelor of Science (B.Sc.) | Electrical & Electronic Engineering | Chittagong University of Engineering and Technology, Chattogram, Bangladesh (_October 2022_) | CGPA: 3.43/4
 - Higher Scecondary School Certificate (HSC) | Science | Chittagong College, Chattogram, Bangladesh (_March 2016_) | GPA: 5/5
 
