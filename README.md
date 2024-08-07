@@ -8,7 +8,7 @@
     <img src="linkedin1.png" alt="Logo 3" style="width:30px; margin-right: 20px;"/>
 </a>
 <a href="https://www.youtube.com/watch?v=J9PnEiOSzkQ">
-    <img src="youtube.png" alt="Logo 3" style="width:30px; margin-right: 50px;"/>
+    <img src="youtube.png" alt="Logo 3" style="width:30px; margin-right: 5px;"/>
 </a>
 <a href="https://www.facebook.com/tasnia.sultana.946/">
     <img src="Facebook-Logosu.png" alt="Logo 1" style="width:50px; margin-right: 0px;"/>
