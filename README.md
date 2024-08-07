@@ -4,10 +4,10 @@
     <img src="Facebook-Logosu.png" alt="Logo 1" style="width:50px; margin-right: 10px;"/>
 </a>
 <a href="https://www.instagram.com/tasnia_heera/">
-    <img src="insta.png" alt="Logo 2" style="width:50px; margin-right: 10px;"/>
+    <img src="insta1.png" alt="Logo 2" style="width:50px; margin-right: 10px;"/>
 </a>
 <a href="https://www.linkedin.com/in/tasnia-sultana-15090a186/">
-    <img src="linkedin.png" alt="Logo 3" style="width:50px; margin-right: 10px;"/>
+    <img src="linkedin1.png" alt="Logo 3" style="width:50px; margin-right: 10px;"/>
 </a>
 <a href="https://www.youtube.com/watch?v=J9PnEiOSzkQ">
     <img src="youtube.png" alt="Logo 3" style="width:50px; margin-right: 10px;"/>
