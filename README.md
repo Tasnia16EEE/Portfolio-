@@ -110,9 +110,9 @@ As the demand for robust and adaptable network solutions grows, floating network
   </a>
 
 **Hobby** 
-- Singing (I’ve taken part in many programs where I performed singing in various settings from small community gatherings to larger events. You might enjoy some of them!)
+- Singing and playing piano (I’ve taken part in many programs where I performed singing in various settings from small community gatherings to larger events. You might enjoy some of them!)
   
-  <p float="left">
+<p float="left">
   <a href="https://www.youtube.com/watch?v=-uyDKSA76U4&list=PL106nfs2Hgb0RchNqF_7QLmoGIILGUVsk&index=3">
     <img src="ss2.jpg" alt="YouTube Video" style="width:450px; height:300px;"/>
   </a>
@@ -121,12 +121,11 @@ As the demand for robust and adaptable network solutions grows, floating network
   </a>
 </p>
 
-- Playing Piano 
 
 ## Publications
 - [Salama, A., Elkamhawy, M., Hendawi, A., Sabour, A., Al-Masri, E., Sultana, T., Tan, M., Agrawal, V., Prakash, R., Ali, M. (2023), “A Computer Vision Approach for Detecting Discrepancies in Map Textual Labels” Submitted at Journal of Distributed and Parallel Databases (Accepted Published Soon)](https://drive.google.com/drive/folders/1Tf3WFU7560u8_vhYuxR5Zn4MAOfQHC-c)
 
-- [Sultana, T., Gani, M., Shultana, S., Miraj, A., & Uddin, A. (2023), “Analysis of Scandium Concentration in AlN Piezoelectric Material with Unimorph Silicon Nitride Cantilever” Submitted at Journal of Sound and Vibration (under review)](https://drive.google.com/drive/folders/1rkrrV9zIkxBZCV_uYiJ3CK3saRnt1PR9)
+- [Sultana, T., Gani, M., Shultana, S., Miraj, A., & Uddin, A. (2023), “Analysis of Scandium Concentration in AlN Piezoelectric Material with Unimorph Silicon Nitride Cantilever”, Materials for Renewable and Sustainable Energy Journal, Publisher: Springer Nature](https://link.springer.com/article/10.1007/s40243-024-00272-9)
 
 ## Conference
 - [Miraj, A., & Uddin, A., Gani, M., Sultana, T., Shultana, S., (2024), “Performance Analysis of Different Piezoelectric & Shim Materials on Bimorph Piezoelectric Energy Harvester” - IEEE 2024 9th International Conference for Convergence in Technology (I2CT), Pune, Maharashtra, India](https://ieeexplore.ieee.org/document/10543375)
