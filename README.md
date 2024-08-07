@@ -65,9 +65,9 @@
 - Guided the organization team for various projects such as traffic light signal and traffic light recognition.
 
 ## Education			
-- Master of Science (M.Sc.) | Computer Science & Systems | University of Washington Tacoma (_Present_) 
-- Bachelor of Science (B.Sc.) | Electrical & Electronic Engineering | Chittagong University of Engineering and Technology, Chattogram, Bangladesh (_October 2022_) | CGPA: 3.43/4
-- Higher Scecondary School Certificate (HSC) | Science | Chittagong College, Chattogram, Bangladesh (_March 2016_) | GPA: 5/5
+- Master of Science (M.Sc.) | Computer Science & Systems | University of Washington Tacoma | Present | 
+- Bachelor of Science (B.Sc.) | Electrical & Electronic Engineering | Chittagong University of Engineering and Technology, Chattogram, Bangladesh | October 2022 | CGPA: 3.43/4
+- Higher Scecondary School Certificate (HSC) | Science | Chittagong College, Chattogram, Bangladesh | March 2016 | GPA: 5/5
 
 ## Training 
 **Huawei Seeds for The Future Flagship Program, 2020**
@@ -118,7 +118,7 @@ As the demand for robust and adaptable network solutions grows, floating network
     <img src="ss2.jpg" alt="YouTube Video" style="width:450px; height:300px;"/>
   </a>
   <a href="https://www.facebook.com/tasnia.sultana.946/videos/2263924380551203">
-    <img src="ss3.jpg" alt="Facebook Video" style="width:450px; height:300px; margin-left: 10px;"/>
+    <img src="ss3.jpg" alt="Facebook Video" style="width:450px; height:300px; margin-left: 0px;"/>
   </a>
 </p>
 
