@@ -1,16 +1,16 @@
 # Data Science & Machine Learning Enthusiast 
 
 <a href="https://www.facebook.com/tasnia.sultana.946/">
-    <img src="Facebook-Logosu.png" alt="Logo 1" style="width:100px; margin-right: 200px;"/>
+    <img src="Facebook-Logosu.png" alt="Logo 1" style="width:50px; margin-right: 10px;"/>
 </a>
 <a href="https://www.instagram.com/tasnia_heera/">
-    <img src="insta1.png" alt="Logo 2" style="width:100px; margin-right: 100px;"/>
+    <img src="insta1.png" alt="Logo 2" style="width:50px; margin-right: 10px;"/>
 </a>
 <a href="https://www.linkedin.com/in/tasnia-sultana-15090a186/">
-    <img src="linkedin1.png" alt="Logo 3" style="width:50px; margin-right: 10px;"/>
+    <img src="linkedin1.png" alt="Logo 3" style="width:10px; margin-right: 10px;"/>
 </a>
 <a href="https://www.youtube.com/watch?v=J9PnEiOSzkQ">
-    <img src="youtube.png" alt="Logo 3" style="width:50px; margin-right: 10px;"/>
+    <img src="youtube.png" alt="Logo 3" style="width:10px; margin-right: 10px;"/>
 </a>
 
 ## Technical Skills 
