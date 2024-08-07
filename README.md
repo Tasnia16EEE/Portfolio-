@@ -108,8 +108,6 @@ As the demand for robust and adaptable network solutions grows, floating network
 <a href="https://www.facebook.com/HuaweiTechBD/videos/620891705516064">
     <img src="ss4.jpg" alt="YouTube Video" style="width:450px; height:300px;"/>
   </a>
-  
-[Huawei Bangldesh](https://www.facebook.com/HuaweiTechBD/videos/620891705516064) 
 
 **Hobby** 
 - Singing (I’ve taken part in many programs where I performed singing in various settings from small community gatherings to larger events. You might enjoy some of them!)
