@@ -1,17 +1,16 @@
 # Data Science & Machine Learning Enthusiast 
 
-
 <a href="https://www.instagram.com/tasnia_heera/">
-    <img src="insta1.png" alt="Logo 2" style="width:50px; margin-right: 5px;"/>
+    <img src="insta1.png" alt="Logo 2" style="width:40px; margin-right: 5px;"/>
 </a>
 <a href="https://www.linkedin.com/in/tasnia-sultana-15090a186/">
-    <img src="linkedin1.png" alt="Logo 3" style="width:30px; margin-right: 5px;"/>
+    <img src="linkedin1.png" alt="Logo 3" style="width:20px; margin-right: 5px;"/>
 </a>
 <a href="https://www.youtube.com/watch?v=J9PnEiOSzkQ">
-    <img src="youtube.png" alt="Logo 3" style="width:30px; margin-right: 5px;"/>
+    <img src="youtube.png" alt="Logo 3" style="width:20px; margin-right: 5px;"/>
 </a>
 <a href="https://www.facebook.com/tasnia.sultana.946/">
-    <img src="Facebook-Logosu.png" alt="Logo 1" style="width:50px; margin-right: 0px;"/>
+    <img src="Facebook-Logosu.png" alt="Logo 1" style="width:40px; margin-right: 0px;"/>
 </a>
 
 ## Technical Skills 
@@ -65,7 +64,8 @@
 
 - Guided the organization team for various projects such as traffic light signal and traffic light recognition.
 
-## Education			        		
+## Education			
+- Master of Science (M.Sc.) | Computer Science & Systems | University of Washington Tacoma (_Present_) | 
 - Bachelor of Science (B.Sc.) | Electrical & Electronic Engineering | Chittagong University of Engineering and Technology, Chattogram, Bangladesh (_October 2022_) | CGPA: 3.43/4
 - Higher Scecondary School Certificate (HSC) | Science | Chittagong College, Chattogram, Bangladesh (_March 2016_) | GPA: 5/5
 
@@ -110,6 +110,7 @@ As the demand for robust and adaptable network solutions grows, floating network
   </a>
 
 **Hobby** 
+
 - Singing and playing piano (I’ve taken part in many programs where I performed singing in various settings from small community gatherings to larger events. You might enjoy some of them!)
   
 <p float="left">
@@ -120,7 +121,6 @@ As the demand for robust and adaptable network solutions grows, floating network
     <img src="ss3.jpg" alt="Facebook Video" style="width:450px; height:300px; margin-left: 10px;"/>
   </a>
 </p>
-
 
 ## Publications
 - [Salama, A., Elkamhawy, M., Hendawi, A., Sabour, A., Al-Masri, E., Sultana, T., Tan, M., Agrawal, V., Prakash, R., Ali, M. (2023), “A Computer Vision Approach for Detecting Discrepancies in Map Textual Labels” Submitted at Journal of Distributed and Parallel Databases (Accepted Published Soon)](https://drive.google.com/drive/folders/1Tf3WFU7560u8_vhYuxR5Zn4MAOfQHC-c)
