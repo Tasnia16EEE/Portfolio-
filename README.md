@@ -1,7 +1,7 @@
 # Data Science & Machine Learning Enthusiast 
 
 <a href="https://www.facebook.com/tasnia.sultana.946/">
-    <img src="Facebook-Logosu.png" alt="Logo 1" style="width:50px; margin-right: 10px;"/>
+    <img src="Facebook-Logosu.png" alt="Logo 1" style="width:50px; margin-right: 100px;"/>
 </a>
 <a href="https://www.instagram.com/tasnia_heera/">
     <img src="insta1.png" alt="Logo 2" style="width:50px; margin-right: 10px;"/>
