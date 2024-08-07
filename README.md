@@ -62,7 +62,7 @@
 - Developed a GPS-based road sign and speed breaker alarming system utilizing Raspberry Pi technology to monitor road signs and speed breakers and implemented a voice-command-based alarm system.
 
  <p float="left">
-   <img src="ASRRO.jpg" alt="Image 1" style="width:300px; height:250px; margin-right: 0px; margin-left: 10px;"/>
+   <img src="ASRRO.jpg" alt="Image 1" style="width:300px; height:250px; margin-right: 0px;"/>
    <img src="ASRRO1.jpg" alt="Image 2" style="width:300px; height:250px;"/>
  </p>
 
