@@ -72,6 +72,9 @@
 
 [Training on ICT based subject and new technology in Huawei Seeds for the Future Flagship program conducted from HUAWEI headquarter, Shenzhen for 3 days and from Beijing for 2 days, 2020](https://www.dhakatribune.com/science-technology-environment/technology/221781/10-bangladeshi-students-to-receive-training-from) 
 
+<a href="https://www.facebook.com/HuaweiTechBD/videos/292406895644373">
+    <img src="ss1.jpg" alt="YouTube Video" style="width:500px; height:400px;"/>
+  </a>
 [![Watch the video](ss1.jpg)](https://www.facebook.com/HuaweiTechBD/videos/292406895644373)
 
 ## Projects
