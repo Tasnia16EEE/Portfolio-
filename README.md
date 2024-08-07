@@ -57,7 +57,7 @@
 
 **Python Instructor @ Andromeda Space & Robotics Research Organization, Chittagong University of Engineering & Technology, Bangladesh (_Dec 2019–Mar 2022_)**
 - Guided the organization team for various projects such as traffic light signal and traffic light recognition.
-- Took classes in different python libraries such as NumPy, matplotlib, OpenCV, pandas, scikit-learn, Python EDA analysis etc. [Python Classes](https://www.youtube.com/watch?v=J9PnEiOSzkQ)
+- Took classes in different python libraries such as NumPy, matplotlib, OpenCV, pandas, scikit-learn, Python EDA analysis etc. [![Logo](youtube.png)](https://www.youtube.com/watch?v=J9PnEiOSzkQ)
 - Guided the organization team for various projects such as traffic light signal and traffic light recognition.
 
 ## Education			        		
