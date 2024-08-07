@@ -62,8 +62,8 @@
 - Developed a GPS-based road sign and speed breaker alarming system utilizing Raspberry Pi technology to monitor road signs and speed breakers and implemented a voice-command-based alarm system.
 
  <p float="left">
-   <img src="ASRRO.jpg" alt="Image 1" style="width:300px; height:250px; margin-right: 10px; margin-left: 10px;"/>
-   <img src="ASRRO.jpg" alt="Image 2" style="width:300px; height:250px;"/>
+   <img src="ASRRO.jpg" alt="Image 1" style="width:300px; height:250px; margin-right: 0px; margin-left: 10px;"/>
+   <img src="ASRRO1.jpg" alt="Image 2" style="width:300px; height:250px;"/>
  </p>
 
 **Design & Decoration Secretary @ Chittagong Student Forum, CUET (_Apr 2021–Mar 2022_)**
@@ -83,7 +83,7 @@
 - Guided the organization team for various projects such as traffic light signal and traffic light recognition.
 
  <p float="left">
-   <img src="ASRRO.jpg" alt="Image 1" style="width:300px; height:250px; margin-right: 10px; margin-left: 10px;"/>
+   <img src="ASRRO3.jpg" alt="Image 1" style="width:300px; height:250px; margin-right: 10px; margin-left: 10px;"/>
  </p>
 
 ## Education			
