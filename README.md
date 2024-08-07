@@ -59,7 +59,7 @@
 - Guided the organization team for various projects such as traffic light signal and traffic light recognition.
 - Took classes in different python libraries such as NumPy, matplotlib, OpenCV, pandas, scikit-learn, Python EDA analysis etc.
   
-  [![Watch the video](ss.png)](https://www.youtube.com/watch?v=J9PnEiOSzkQ)
+  [![Watch the video](ss.jpg)](https://www.youtube.com/watch?v=J9PnEiOSzkQ)
 
 - Guided the organization team for various projects such as traffic light signal and traffic light recognition.
 
@@ -72,7 +72,7 @@
 
 [Training on ICT based subject and new technology in Huawei Seeds for the Future Flagship program conducted from HUAWEI headquarter, Shenzhen for 3 days and from Beijing for 2 days, 2020](https://www.dhakatribune.com/science-technology-environment/technology/221781/10-bangladeshi-students-to-receive-training-from) 
 
-[![Watch the video](ss1.png)](https://www.facebook.com/HuaweiTechBD/videos/292406895644373)
+[![Watch the video](ss1.jpg)](https://www.facebook.com/HuaweiTechBD/videos/292406895644373)
 
 ## Projects
 **Lime Interpretability**
@@ -102,8 +102,8 @@ As the demand for robust and adaptable network solutions grows, floating network
 
 **Hobby** 
 - Singing (I’ve taken part in many programs where I performed singing in various settings from small community gatherings to larger events. You might enjoy some of them!)
-  [![Watch the video](ss2.png)](https://www.youtube.com/watch?v=-uyDKSA76U4&list=PL106nfs2Hgb0RchNqF_7QLmoGIILGUVsk&index=3)
-  [![Watch the video](ss3.png)](https://www.facebook.com/tasnia.sultana.946/videos/2263924380551203)
+  [![Watch the video](ss2.jpg)](https://www.youtube.com/watch?v=-uyDKSA76U4&list=PL106nfs2Hgb0RchNqF_7QLmoGIILGUVsk&index=3)
+  [![Watch the video](ss3.jpg)](https://www.facebook.com/tasnia.sultana.946/videos/2263924380551203)
   
 - Playing Piano 
 
