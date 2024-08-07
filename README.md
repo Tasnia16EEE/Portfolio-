@@ -105,10 +105,10 @@ As the demand for robust and adaptable network solutions grows, floating network
 - 
   <p float="left">
   <a href="https://www.youtube.com/watch?v=-uyDKSA76U4&list=PL106nfs2Hgb0RchNqF_7QLmoGIILGUVsk&index=3">
-    <img src="ss2.jpg" alt="YouTube Video" style="width:300px;"/>
+    <img src="ss2.jpg" alt="YouTube Video" style="width:400px;"/>
   </a>
   <a href="https://www.facebook.com/tasnia.sultana.946/videos/2263924380551203">
-    <img src="ss3.jpg" alt="Facebook Video" style="width:300px; margin-left: 10px;"/>
+    <img src="ss3.jpg" alt="Facebook Video" style="width:400px; margin-left: 10px;"/>
   </a>
 </p>
 
