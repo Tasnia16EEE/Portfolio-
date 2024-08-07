@@ -102,13 +102,13 @@ As the demand for robust and adaptable network solutions grows, floating network
 
 **Hobby** 
 - Singing (I’ve taken part in many programs where I performed singing in various settings from small community gatherings to larger events. You might enjoy some of them!)
-- 
+  
   <p float="left">
   <a href="https://www.youtube.com/watch?v=-uyDKSA76U4&list=PL106nfs2Hgb0RchNqF_7QLmoGIILGUVsk&index=3">
-    <img src="ss2.jpg" alt="YouTube Video" style="width:400px; height:150px;"/>
+    <img src="ss2.jpg" alt="YouTube Video" style="width:450px; height:300px;"/>
   </a>
   <a href="https://www.facebook.com/tasnia.sultana.946/videos/2263924380551203">
-    <img src="ss3.jpg" alt="Facebook Video" style="width:400px; height:150px; margin-left: 10px;"/>
+    <img src="ss3.jpg" alt="Facebook Video" style="width:450px; height:300px; margin-left: 10px;"/>
   </a>
 </p>
 
