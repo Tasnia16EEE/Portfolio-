@@ -5,7 +5,7 @@
     <img src="insta1.png" alt="Logo 2" style="width:50px; margin-right: 5px;"/>
 </a>
 <a href="https://www.linkedin.com/in/tasnia-sultana-15090a186/">
-    <img src="linkedin1.png" alt="Logo 3" style="width:30px; margin-right: 20px;"/>
+    <img src="linkedin1.png" alt="Logo 3" style="width:30px; margin-right: 5px;"/>
 </a>
 <a href="https://www.youtube.com/watch?v=J9PnEiOSzkQ">
     <img src="youtube.png" alt="Logo 3" style="width:30px; margin-right: 5px;"/>
