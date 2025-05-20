@@ -24,15 +24,25 @@
 ### Other Skills:
 #### Excellent people management skill, Inclusivity skill, Collaboration expertise, Conflict resolution proficiency, Detailed and organized, Capability to lead, Excellent communication skill, Ability to multitask, Project Planning, Project Engineering
 
+## Education			
+- Master of Science (M.Sc.) | Computer Science & Systems | University of Washington Tacoma | Present | 
+- Bachelor of Science (B.Sc.) | Electrical & Electronic Engineering | Chittagong University of Engineering and Technology, Chattogram, Bangladesh | October 2022 | CGPA: 3.43/4
+- Higher Scecondary School Certificate (HSC) | Science | Chittagong College, Chattogram, Bangladesh | March 2016 | GPA: 5/5
+
 ## Work Experience 
 
-**Voluntary Research Work 1 @ University of Washington Tacoma (_Jan 2023-Present_)**
+**Data Intern @ IB Analytica, USA (_Mar 2025-May 2025_)**
+- Assist the AI teams to develop an AI model using LLMs for investigative journalism.
+- Research data sources and use APIs to fetch the data from social platforms related to the project.
+- Lead a team of three interns; collaborated on improving AI usability for end users through data analysis.
+
+**Research Assistant @ University of Washington Tacoma (_Jul 2024-Present_)**
 
 **PI: Prof. Dr. Mohammad Ali, University of Washington Tacoma**
-- Use ADE20K datasets, PyTorch, Hugging face and various API to understand the architecture of pretrained Transformer models.
-- Use different unstructured pruning techniques such as Iterative Magnitude Pruning, Snip Pruning, Snip Momentum Pruning as well as DepGraph structured pruning method to prune the transformer architecture models.  
-- Understand the attention mechanism, cross attention mechanism and transformer’s encoder-decoder etc. 
-- Use Lime, Shap analysis and Grad CAM to interpret the model.
+- Collaborate on research in Dynamic Neural Network Compression for Scalable AI Deployment.
+- Survey on different model compression techniques such as pruning, quantization, knowledge distillation, low rank factorization, building efficient neural network to deploy the model on Edge devices.
+- Gain knowledge on reducing computational cost, inference time, memory usage, and FLOPs to deploy models on mobile devices, and provided offline functionality of AI models on resource-constrained devices.
+- Study different state space models, such as Mamba, for research purposes.
   
 **Voluntary Research Work 2 @ University of Washington Tacoma (_Jan 2023-Dec 2023_)**
 
@@ -48,6 +58,64 @@
 - Data Analysis and Mining with Python
 - SQL Querying and optimization
 
+
+## Research Experience 
+**MiniMedAssistant: A Multimodal Medical Assistant Model for Resource Constrained Devices. (Master’s Thesis)**
+- Develop a multimodal medical assistant AI with reasoning capabilities by curating data via knowledge distillation, applying pruning and quantization for model compression, and deploying it on mobile devices with offline functionality.
+
+**Publications**
+- [Salama, A., Elkamhawy, M., Hendawi, A., Sabour, A., Al-Masri, E., Sultana, T., Tan, M., Agrawal, V., Prakash, R., Ali, M. (2023), “A Computer Vision Approach for Detecting Discrepancies in Map Textual Labels” Submitted at Journal of Distributed and Parallel Databases (Accepted Published Soon)](https://drive.google.com/drive/folders/1Tf3WFU7560u8_vhYuxR5Zn4MAOfQHC-c)
+
+- [Sultana, T., Gani, M., Shultana, S., Miraj, A., & Uddin, A. (2024), “Analysis of Scandium Concentration in AlN Piezoelectric Material with Unimorph Silicon Nitride Cantilever”, Materials for Renewable and Sustainable Energy Journal, Publisher: Springer Nature](https://link.springer.com/article/10.1007/s40243-024-00272-9)
+
+**Conference**
+- [Miraj, A., & Uddin, A., Gani, M., Sultana, T., Shultana, S., (2024), “Performance Analysis of Different Piezoelectric & Shim Materials on Bimorph Piezoelectric Energy Harvester” - IEEE 2024 9th International Conference for Convergence in Technology (I2CT), Pune, Maharashtra, India](https://ieeexplore.ieee.org/document/10543375)
+
+
+
+## Projects
+**Lime Interpretability**
+
+[Interpreting the Swin Transformer through Lime Interpretability](https://github.com/Tasnia16EEE/Lime_Interpretability/blob/main/Lime_Interpretability.ipynb) 
+
+Understanding how deep learning models, such as the Swin Transformer, classify objects is crucial for improving their performance and trustworthiness. This study leverages LIME (Local Interpretable Model-agnostic Explanations) to shed light on the decision-making process of Swin Transformer models. By applying LIME, we aim to identify the important features that influence the model's classifications and gain insights into its internal workings. This interpretability analysis not only helps in debugging and refining the model but also enhances transparency, making it easier to trust and adopt these advanced models in real-world applications. 
+
+**Understanding Feature Importance in Mask2Former**
+
+[Feature Importance of Mask2Former](https://github.com/Tasnia16EEE/Feature-Importance-of-Mask2Former-Model/blob/main/Mask2FormerFeatureimportance.ipynb)
+
+In the realm of computer vision, the Mask2Former model has emerged as a state-of-the-art framework for various tasks such as image segmentation and object detection. Understanding the feature importance in Mask2Former is crucial for interpreting its predictions, improving model robustness, and ensuring transparency in its decision-making process. This repo delves into the mechanisms of Mask2Former, highlighting the significance of different features and their impact on the model’s performance. (on-going)
+
+**SQL Projects** 
+Projects Repo: [SQL Projects](https://github.com/Tasnia16EEE/SQL) 
+
+**Implementation of a GPS based road sign and speed breaker alarming system**
+
+Road safety is a critical concern, and effective monitoring of road signs and speed breakers is essential for preventing accidents and ensuring smooth traffic flow. This project presents the implementation of a GPS-based road sign and speed breaker alarming system designed to address the challenges associated with monitoring road signs and speed breakers. The system includes a voice command-based alarm to alert drivers in real-time, enhancing their awareness and promoting safer driving practices. [Presentation](https://docs.google.com/presentation/d/1CSendkukPCI519lDNemYXtr7aRfEqJ4y/edit#slide=id.p1)
+
+**Huawei Flagship Program**
+
+[Floating Network Solutions from Bangladesh Perspective](https://docs.google.com/presentation/d/1EM5Mf6IS6MQMGh8QbrZdh1jwWdZpZXcB/edit#slide=id.p1)
+
+As the demand for robust and adaptable network solutions grows, floating network solutions have emerged as a vital technology to address connectivity challenges in various environments. This project explores the concept, design, implementation, and benefits of floating network solutions from Bangladesh Perspective, highlighting their potential to provide enhanced connectivity and resilience in diverse scenarios. 
+
+<a href="https://www.facebook.com/HuaweiTechBD/videos/620891705516064">
+    <img src="ss4.jpg" alt="YouTube Video" style="width:450px; height:300px;"/>
+  </a>
+
+
+## Training 
+**Huawei Seeds for The Future Flagship Program, 2020**
+
+[Training on ICT based subject and new technology in Huawei Seeds for the Future Flagship program conducted from HUAWEI headquarter, Shenzhen for 3 days and from Beijing for 2 days, 2020](https://www.dhakatribune.com/science-technology-environment/technology/221781/10-bangladeshi-students-to-receive-training-from) 
+
+<a href="https://www.facebook.com/HuaweiTechBD/videos/292406895644373">
+    <img src="ss1.jpg" alt="YouTube Video" style="width:450px; height:300px;"/>
+  </a>
+
+
+
+## Leadership Development
 **General Secretary @ Andromeda Space & Robotics Research Organization, Chittagong University of Engineering & Technology, Bangladesh (_Dec 2020–Mar 2022_)**
 - Arranged different coding hackathon, webinar and robotics competition.
 - Managed the committee with a focus on equity, integrity, and diversity.
@@ -86,52 +154,7 @@
    <img src="ASRRO3.jpg" alt="Image 1" style="width:300px; height:250px; margin-right: 0px; margin-left: 10px;"/>
  </p>
 
-## Education			
-- Master of Science (M.Sc.) | Computer Science & Systems | University of Washington Tacoma | Present | 
-- Bachelor of Science (B.Sc.) | Electrical & Electronic Engineering | Chittagong University of Engineering and Technology, Chattogram, Bangladesh | October 2022 | CGPA: 3.43/4
-- Higher Scecondary School Certificate (HSC) | Science | Chittagong College, Chattogram, Bangladesh | March 2016 | GPA: 5/5
-
-## Training 
-**Huawei Seeds for The Future Flagship Program, 2020**
-
-[Training on ICT based subject and new technology in Huawei Seeds for the Future Flagship program conducted from HUAWEI headquarter, Shenzhen for 3 days and from Beijing for 2 days, 2020](https://www.dhakatribune.com/science-technology-environment/technology/221781/10-bangladeshi-students-to-receive-training-from) 
-
-<a href="https://www.facebook.com/HuaweiTechBD/videos/292406895644373">
-    <img src="ss1.jpg" alt="YouTube Video" style="width:450px; height:300px;"/>
-  </a>
-
-
-## Projects
-**Lime Interpretability**
-
-[Interpreting the Swin Transformer through Lime Interpretability](https://github.com/Tasnia16EEE/Lime_Interpretability/blob/main/Lime_Interpretability.ipynb) 
-
-Understanding how deep learning models, such as the Swin Transformer, classify objects is crucial for improving their performance and trustworthiness. This study leverages LIME (Local Interpretable Model-agnostic Explanations) to shed light on the decision-making process of Swin Transformer models. By applying LIME, we aim to identify the important features that influence the model's classifications and gain insights into its internal workings. This interpretability analysis not only helps in debugging and refining the model but also enhances transparency, making it easier to trust and adopt these advanced models in real-world applications. 
-
-**Understanding Feature Importance in Mask2Former**
-
-[Feature Importance of Mask2Former](https://github.com/Tasnia16EEE/Feature-Importance-of-Mask2Former-Model/blob/main/Mask2FormerFeatureimportance.ipynb)
-
-In the realm of computer vision, the Mask2Former model has emerged as a state-of-the-art framework for various tasks such as image segmentation and object detection. Understanding the feature importance in Mask2Former is crucial for interpreting its predictions, improving model robustness, and ensuring transparency in its decision-making process. This repo delves into the mechanisms of Mask2Former, highlighting the significance of different features and their impact on the model’s performance. (on-going)
-
-**SQL Projects** 
-Projects Repo: [SQL Projects](https://github.com/Tasnia16EEE/SQL) 
-
-**Implementation of a GPS based road sign and speed breaker alarming system**
-
-Road safety is a critical concern, and effective monitoring of road signs and speed breakers is essential for preventing accidents and ensuring smooth traffic flow. This project presents the implementation of a GPS-based road sign and speed breaker alarming system designed to address the challenges associated with monitoring road signs and speed breakers. The system includes a voice command-based alarm to alert drivers in real-time, enhancing their awareness and promoting safer driving practices. [Presentation](https://docs.google.com/presentation/d/1CSendkukPCI519lDNemYXtr7aRfEqJ4y/edit#slide=id.p1)
-
-**Huawei Flagship Program**
-
-[Floating Network Solutions from Bangladesh Perspective](https://docs.google.com/presentation/d/1EM5Mf6IS6MQMGh8QbrZdh1jwWdZpZXcB/edit#slide=id.p1)
-
-As the demand for robust and adaptable network solutions grows, floating network solutions have emerged as a vital technology to address connectivity challenges in various environments. This project explores the concept, design, implementation, and benefits of floating network solutions from Bangladesh Perspective, highlighting their potential to provide enhanced connectivity and resilience in diverse scenarios. 
-
-<a href="https://www.facebook.com/HuaweiTechBD/videos/620891705516064">
-    <img src="ss4.jpg" alt="YouTube Video" style="width:450px; height:300px;"/>
-  </a>
-
-**Hobby** 
+## Hobby 
 
 - Singing and playing piano (I’ve taken part in many programs where I performed singing in various settings from small community gatherings to larger events. You might enjoy some of them!)
   
@@ -144,13 +167,8 @@ As the demand for robust and adaptable network solutions grows, floating network
   </a>
 </p>
 
-## Publications
-- [Salama, A., Elkamhawy, M., Hendawi, A., Sabour, A., Al-Masri, E., Sultana, T., Tan, M., Agrawal, V., Prakash, R., Ali, M. (2023), “A Computer Vision Approach for Detecting Discrepancies in Map Textual Labels” Submitted at Journal of Distributed and Parallel Databases (Accepted Published Soon)](https://drive.google.com/drive/folders/1Tf3WFU7560u8_vhYuxR5Zn4MAOfQHC-c)
 
-- [Sultana, T., Gani, M., Shultana, S., Miraj, A., & Uddin, A. (2024), “Analysis of Scandium Concentration in AlN Piezoelectric Material with Unimorph Silicon Nitride Cantilever”, Materials for Renewable and Sustainable Energy Journal, Publisher: Springer Nature](https://link.springer.com/article/10.1007/s40243-024-00272-9)
 
-## Conference
-- [Miraj, A., & Uddin, A., Gani, M., Sultana, T., Shultana, S., (2024), “Performance Analysis of Different Piezoelectric & Shim Materials on Bimorph Piezoelectric Energy Harvester” - IEEE 2024 9th International Conference for Convergence in Technology (I2CT), Pune, Maharashtra, India](https://ieeexplore.ieee.org/document/10543375)
 
 
 
