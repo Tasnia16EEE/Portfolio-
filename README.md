@@ -144,7 +144,6 @@ As the demand for robust and adaptable network solutions grows, floating network
 
  <p float="left">
    <img src="ASRRO.jpg" alt="Image 1" style="width:300px; height:250px; margin-right: 0px;"/>
-   <img src="ASRRO1.jpg" alt="Image 2" style="width:300px; height:250px;"/>
  </p>
 
 **Design & Decoration Secretary @ Chittagong Student Forum, CUET (_Apr 2021–Mar 2022_)**
@@ -162,10 +161,6 @@ As the demand for robust and adaptable network solutions grows, floating network
   </a>
 
 - Guided the organization team for various projects such as traffic light signal and traffic light recognition.
-
- <p float="left">
-   <img src="ASRRO3.jpg" alt="Image 1" style="width:300px; height:250px; margin-right: 0px; margin-left: 10px;"/>
- </p>
 
 ## Hobby 
 
