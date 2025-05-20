@@ -1,17 +1,12 @@
 # Data Science & Machine Learning Enthusiast 
 
-<a href="https://www.instagram.com/tasnia_heera/">
-    <img src="insta1.png" alt="Logo 2" style="width:40px; margin-right: 5px;"/>
-</a>
 <a href="https://www.linkedin.com/in/tasnia-sultana-15090a186/">
     <img src="linkedin1.png" alt="Logo 3" style="width:20px; margin-right: 5px;"/>
 </a>
 <a href="https://www.youtube.com/watch?v=J9PnEiOSzkQ">
     <img src="youtube.png" alt="Logo 3" style="width:20px; margin-right: 5px;"/>
 </a>
-<a href="https://www.facebook.com/tasnia.sultana.946/">
-    <img src="Facebook-Logosu.png" alt="Logo 1" style="width:40px; margin-right: 0px;"/>
-</a>
+
 
 ## Technical Skills 
 
@@ -44,7 +39,7 @@
 - Gain knowledge on reducing computational cost, inference time, memory usage, and FLOPs to deploy models on mobile devices, and provided offline functionality of AI models on resource-constrained devices.
 - Study different state space models, such as Mamba, for research purposes.
   
-**Voluntary Research Work 2 @ University of Washington Tacoma (_Jan 2023-Dec 2023_)**
+**Voluntary Research Work @ University of Washington Tacoma (_Jan 2023-Dec 2023_)**
 
 **PI: Dr. Abdul Salama, Machine Learning Manager, Virta Health, USA**
 - Used Azure Cognitive Service for text extraction. 
