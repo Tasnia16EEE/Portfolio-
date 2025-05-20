@@ -69,6 +69,24 @@
 
 
 ## Projects
+**Quantization Aware Dynamic Scheduling Task Parallelization for Resource Constrained Devices**
+- Developed a quantization-aware dynamic task scheduling framework.
+- Integrated heterogeneous task parallelization to improve hardware utilization.
+- Applied dynamic graph partitioning and graph coarsening to optimize model data flow.
+- Reduced computational cost, latency, and energy consumption for real-time deployment.
+
+
+**Query Optimization: Monitoring, analysis and enforcing query plans**
+- Study the behavior of a query optimizer inside a database management system.
+    - Query plan change in response to changes in the DB schema.
+    - Query plan change in response to a change in the cardinalities
+    - The optimizer makes the wrong decisions.
+
+
+**Similarity Detection in Trajectory Databases to Facilitate Ridesharing**
+- Use QuickBundles clustering algorithm with Spatio Temporal Distance metric for trajectory similarity detection.
+- Utilize San Francisco Taxi Dataset, SQL, Python, DBSCAN, Hadoop to propose a updated bus path.
+
 **Lime Interpretability**
 
 [Interpreting the Swin Transformer through Lime Interpretability](https://github.com/Tasnia16EEE/Lime_Interpretability/blob/main/Lime_Interpretability.ipynb) 
